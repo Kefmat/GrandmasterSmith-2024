@@ -1,9 +1,7 @@
 # [Chess Network]("undefined")
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/badge/Issues-1-red)](https://github.com/borgar90/APP2000-gruppe04/issues) [![GitHub issues closed](https://img.shields.io/badge/Issues_solved-0-green)](https://github.com/borgar90/APP200-gruppe04/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/badge/Issues-1-red)] [![GitHub issues closed](https://img.shields.io/badge/Issues_solved-0-green)]
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8bf90cff-c26f-4a5a-969d-a8046534b6ae/deploy-status)](https://app.netlify.com/sites/grandmasterssmith/deploys)
-
-![Image](https://github.com/borgar90/APP2000-gruppe04/blob/baef0fa6c7a4978792c9d983098feef16f85e14a/Screenshot%202023-11-04%20at%2022.32.18.png)
 
 Vi har initiert et prosjekt for å skape et sosialt nettverk online for sjakkspillere. Både proffer og nybegynnere får delta.
 
@@ -120,9 +118,6 @@ We use GitHub Issues as the official bug tracker for the Chess network. Here are
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
-## Technical Support or Questions
-
-If you have questions or need help integrating the product please [contact us](mailto:borgar90@gmail.com) instead of opening an issue.
 
 ## Licensing
 
