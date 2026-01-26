@@ -1,0 +1,18 @@
+{
+  "out": "./public/docs",
+  "exclude": ["**/node_modules/**", "**/.next/**", "**/public/**"],
+
+  "name": "Grandmaster's smith - Gruppe 04 - App2000 - Dokumentasjon",
+  "readme": "none",
+  "tsconfig": "tsconfig.json",
+  "entryPoints": ["./"],
+  "plugin": ["typedoc-umlclass"],
+  "umlClassDiagram": {
+    "type": "detailed",
+    "location": "local",
+    "format": "svg",
+    "sectionTitle": "Komponentdiagram",
+    "createPlantUmlFiles": true,
+    "verboseOutput": true
+  }
+}

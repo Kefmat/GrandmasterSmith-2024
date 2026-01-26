@@ -1,0 +1,44 @@
+[35mAPP2000-gruppe04-innlevering/features/About/Layouts/Sections/TechStackSection.tsx[m[36m:[m[32m30[m[36m:[m        <img src="images/about/techStack/[1;31mmongodb[m.jpg" width="300px" />
+[35mAPP2000-gruppe04-innlevering/features/Common/Types/mongodb.d.ts[m[36m:[m[32m1[m[36m:[mdeclare module "[1;31mmongodb[m" {
+[35mAPP2000-gruppe04-innlevering/package-lock.json[m[36m:[m[32m50[m[36m:[m        "[1;31mmongodb[m": "^6.3.0",
+[35mAPP2000-gruppe04-innlevering/package-lock.json[m[36m:[m[32m3496[m[36m:[m    "node_modules/@[1;31mmongodb[m-js/saslprep": {
+[35mAPP2000-gruppe04-innlevering/package-lock.json[m[36m:[m[32m3498[m[36m:[m      "resolved": "https://registry.npmjs.org/@[1;31mmongodb[m-js/saslprep/-/saslprep-1.1.5.tgz",
+[35mAPP2000-gruppe04-innlevering/package-lock.json[m[36m:[m[32m12686[m[36m:[m    "node_modules/[1;31mmongodb[m": {
+[35mAPP2000-gruppe04-innlevering/package-lock.json[m[36m:[m[32m12688[m[36m:[m      "resolved": "https://registry.npmjs.org/[1;31mmongodb[m/-/[1;31mmongodb[m-6.5.0.tgz",
+[35mAPP2000-gruppe04-innlevering/package-lock.json[m[36m:[m[32m12692[m[36m:[m        "@[1;31mmongodb[m-js/saslprep": "^1.1.5",
+[35mAPP2000-gruppe04-innlevering/package-lock.json[m[36m:[m[32m12694[m[36m:[m        "[1;31mmongodb[m-connection-string-url": "^3.0.0"
+[35mAPP2000-gruppe04-innlevering/package-lock.json[m[36m:[m[32m12701[m[36m:[m        "@[1;31mmongodb[m-js/zstd": "^1.1.0",
+[35mAPP2000-gruppe04-innlevering/package-lock.json[m[36m:[m[32m12704[m[36m:[m        "[1;31mmongodb[m-client-encryption": ">=6.0.0 <7",
+[35mAPP2000-gruppe04-innlevering/package-lock.json[m[36m:[m[32m12712[m[36m:[m        "@[1;31mmongodb[m-js/zstd": {
+[35mAPP2000-gruppe04-innlevering/package-lock.json[m[36m:[m[32m12721[m[36m:[m        "[1;31mmongodb[m-client-encryption": {
+[35mAPP2000-gruppe04-innlevering/package-lock.json[m[36m:[m[32m12732[m[36m:[m    "node_modules/[1;31mmongodb[m-connection-string-url": {
+[35mAPP2000-gruppe04-innlevering/package-lock.json[m[36m:[m[32m12734[m[36m:[m      "resolved": "https://registry.npmjs.org/[1;31mmongodb[m-connection-string-url/-/[1;31mmongodb[m-connection-string-url-3.0.0.tgz",
+[35mAPP2000-gruppe04-innlevering/package-lock.json[m[36m:[m[32m12749[m[36m:[m        "[1;31mmongodb[m": "6.5.0",
+[35mAPP2000-gruppe04-innlevering/package.json[m[36m:[m[32m56[m[36m:[m    "[1;31mmongodb[m": "^6.3.0",
+[35mAPP2000-gruppe04-innlevering/pages/api/auth/newuserprofile.ts[m[36m:[m[32m1[m[36m:[mimport { dbConnect } from "@/util/[1;31mmongodb[m";
+[35mAPP2000-gruppe04-innlevering/pages/api/auth/newuserprofile.ts[m[36m:[m[32m11[m[36m:[m    origin: process.env.[1;31mAUTH0_[mDOMAIN, // Specify your Auth0 domain here
+[35mAPP2000-gruppe04-innlevering/pages/api/chess/init.ts[m[36m:[m[32m1[m[36m:[mimport { dbConnect } from "@/util/[1;31mmongodb[m";
+[35mAPP2000-gruppe04-innlevering/pages/api/chess/opening.ts[m[36m:[m[32m1[m[36m:[mimport { dbConnect } from "@/util/[1;31mmongodb[m";
+[35mAPP2000-gruppe04-innlevering/pages/api/chess/record.ts[m[36m:[m[32m2[m[36m:[mimport { dbConnect } from "@/util/[1;31mmongodb[m";
+[35mAPP2000-gruppe04-innlevering/pages/api/elo/index.ts[m[36m:[m[32m2[m[36m:[mimport { dbConnect } from "@/util/[1;31mmongodb[m";
+[35mAPP2000-gruppe04-innlevering/pages/api/elo/top5.ts[m[36m:[m[32m2[m[36m:[mimport { dbConnect } from "@/util/[1;31mmongodb[m";
+[35mAPP2000-gruppe04-innlevering/pages/api/roles/[id].ts[m[36m:[m[32m2[m[36m:[mimport { dbConnect } from "@/util/[1;31mmongodb[m";
+[35mAPP2000-gruppe04-innlevering/pages/api/roles/index.ts[m[36m:[m[32m2[m[36m:[mimport { dbConnect } from "@/util/[1;31mmongodb[m";
+[35mAPP2000-gruppe04-innlevering/pages/api/social-network/[id].ts[m[36m:[m[32m2[m[36m:[mimport { dbConnect } from "@/util/[1;31mmongodb[m";
+[35mAPP2000-gruppe04-innlevering/pages/api/social-network/[id].ts[m[36m:[m[32m28[m[36m:[m      const apiKey = process.env?.[1;31mSTREAM_[mAPI_KEY;
+[35mAPP2000-gruppe04-innlevering/pages/api/social-network/[id].ts[m[36m:[m[32m29[m[36m:[m      const [1;31mSTREAM_[mID = process.env?.[1;31mSTREAM_[mID;
+[35mAPP2000-gruppe04-innlevering/pages/api/social-network/[id].ts[m[36m:[m[32m30[m[36m:[m      if (!apiKey || ![1;31mSTREAM_[mID || !userToken) {
+[35mAPP2000-gruppe04-innlevering/pages/api/social-network/[id].ts[m[36m:[m[32m34[m[36m:[m          [1;31mSTREAM_[mID,
+[35mAPP2000-gruppe04-innlevering/pages/api/social-network/[id].ts[m[36m:[m[32m39[m[36m:[m      const client = connect(apiKey, userToken, [1;31mSTREAM_[mID);
+[35mAPP2000-gruppe04-innlevering/pages/api/social-network/add_friend.ts[m[36m:[m[32m2[m[36m:[mimport { dbConnect } from "@/util/[1;31mmongodb[m";
+[35mAPP2000-gruppe04-innlevering/pages/api/social-network/friend_notifications.ts[m[36m:[m[32m2[m[36m:[mimport { dbConnect } from "@/util/[1;31mmongodb[m";
+[35mAPP2000-gruppe04-innlevering/pages/api/social-network/friend_suggestions.ts[m[36m:[m[32m2[m[36m:[mimport { dbConnect } from "@/util/[1;31mmongodb[m";
+[35mAPP2000-gruppe04-innlevering/pages/api/social-network/posts.ts[m[36m:[m[32m2[m[36m:[mimport { dbConnect } from "@/util/[1;31mmongodb[m";
+[35mAPP2000-gruppe04-innlevering/pages/api/social-network/profile/[id].ts[m[36m:[m[32m5[m[36m:[mimport { dbConnect } from "@/util/[1;31mmongodb[m";
+[35mAPP2000-gruppe04-innlevering/pages/api/social-network/user/media/upload_photos.ts[m[36m:[m[32m2[m[36m:[mimport { dbConnect } from "@/util/[1;31mmongodb[m";
+[35mAPP2000-gruppe04-innlevering/pages/api/teams/[id].ts[m[36m:[m[32m2[m[36m:[mimport { dbConnect } from "@/util/[1;31mmongodb[m";
+[35mAPP2000-gruppe04-innlevering/pages/api/teams/index.ts[m[36m:[m[32m2[m[36m:[mimport { dbConnect } from "@/util/[1;31mmongodb[m";
+[35mAPP2000-gruppe04-innlevering/pages/api/users/user.ts[m[36m:[m[32m2[m[36m:[mimport { dbConnect } from "@/util/[1;31mmongodb[m";
+[35mAPP2000-gruppe04-innlevering/util/auth0.js[m[36m:[m[32m4[m[36m:[m  domain: process.env.[1;31mAUTH0_[mDOMAIN,
+[35mAPP2000-gruppe04-innlevering/util/auth0.js[m[36m:[m[32m5[m[36m:[m  clientId: process.env.[1;31mAUTH0_[mCLIENT_ID,
+[35mAPP2000-gruppe04-innlevering/util/auth0.js[m[36m:[m[32m6[m[36m:[m  clientSecret: process.env.[1;31mAUTH0_[mCLIENT_SECRET,

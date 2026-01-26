@@ -1,0 +1,7 @@
+Ikke vår kode!
+
+Dette er botter laget med webasembly av noen andre en oss. de baserer seg på stockfish og lozza.
+
+Kilde: https://eddmann.com/posts/creating-a-react-based-chess-game-with-wasm-bots-in-typescript/
+
+Git-kilde: https://github.com/eddmann/chessbot-typescript

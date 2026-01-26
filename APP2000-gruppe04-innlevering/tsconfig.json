@@ -1,0 +1,46 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./*"],
+      "@components/*": ["./components/*"],
+      "@pages/*": ["./pages/*"],
+      "@styles/*": ["./styles/*"],
+      "@providers/*": ["./providers/*"],
+      "@public/*": ["./public/*"],
+      "@layout/*": ["./layout/*"],
+      "@images/*": ["./public/images/*"],
+      "@util/*": ["./util/*"],
+      "@model/*": ["./model/*"],
+      "@validators/*": ["./validators/*"],
+      "@MyTypes/*": ["./types/*"],
+      "@features/*": ["./features/*"],
+      "@Chess/*": ["./Chess/*"],
+      "@Common/*": ["./features/Common/*"],
+      "@Constants/*": ["./Constants/*"]
+    }
+  },
+  "include": [
+    "next-env.d.ts",
+    ".env",
+    "**/*.ts",
+    "**/*.tsx",
+    "**/*.js",
+    "tailwind.config.ts",
+    "_middleware.ts"
+  ],
+  "exclude": ["node_modules"]
+}

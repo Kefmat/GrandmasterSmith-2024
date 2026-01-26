@@ -1,0 +1,1 @@
+export const SELECT_OPENING = "SELECT_OPENING";

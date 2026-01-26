@@ -1,0 +1,213 @@
+{
+  "banner.title": "Кузница гроссмейстера",
+  "banner.subtitle": "Бесплатное сообщество для изучения шахматных дебютов и образовательных программ.",
+  "banner.button": "Начать играть",
+  "banner.spectateTitle": "Смотреть живые партии",
+  "banner.spectateSubtitle": "Станьте следующим гроссмейстером, наблюдая за живыми партиями здесь, в Кузнице гроссмейстера.",
+  "banner.registerButton": "Зарегистрироваться",
+
+  "counters.openingsTitle": "Дебюты",
+  "counters.openingsDescription": "От испанской до португальской.",
+  "counters.endingsTitle": "Завершения игры",
+  "counters.endingsDescription": "Изучите от профессиональных шахматистов, чтобы поставить мат своему сопернику.",
+  "counters.tutorialsTitle": "Обучающие программы",
+  "counters.tutorialsDescription": "Учитеся у лучших, боритесь с остальными!",
+
+  "rotatingCard.front.title": "Овладейте игрой, раскройте свой потенциал",
+  "rotatingCard.front.description": "Ваш Игровой Полигон Шахмат\n\nДобро пожаловать в ведущее в мире шахматное сообщество. Примите участие в игре, как никогда прежде, на нашей революционной платформе. Вот что отличает нас от других:",
+  "rotatingCard.back.title": "Раскройте свои шахматные навыки",
+  "rotatingCard.back.description": "Улучшайте свои шахматные навыки, получив доступ к обширной библиотеке дебютов, стратегий и тактик.\nОбщайтесь с шахматными энтузиастами, учитесь у гроссмейстеров и поднимайте свою игру на новый уровень.",
+  "defaultInfoCard.connectedThroughPlay": "Связан через игру:",
+  "defaultInfoCard.connectedThroughPlayDescription": "Почувствуйте радость игры в шахматы на высоком уровне.\nВызывайте друзей или заводите новых. Создавайте эпические соперничества или наставляйте новичков. Выбор за вами.",
+  "defaultInfoCard.battleTestedAIOpponents": "Испытанные боем AI-противники:",
+  "defaultInfoCard.battleTestedAIOpponentsDescription": "Оттачивайте свои навыки против самых могущественных шахматных ИИ в мире.\nТренируйтесь против настраиваемых противников, которые адаптируются к вашему уровню, и получите максимальный опыт тренировки.",
+  "defaultInfoCard.dynamicRatingSystem": "Динамическая система рейтинга:",
+  "defaultInfoCard.dynamicRatingSystemDescription": "Соревнуйтесь, зарабатывайте и продвигайтесь по рангам с нашей надежной шахматной системой рейтинга.\nВыделитесь как гроссмейстер или продвигайтесь от новичка к опытному игроку, ваш рейтинг расскажет вашу шахматную историю.",
+  "defaultInfoCard.designedByChessLovers": "Создано шахматными любителями, для шахматных любителей",
+  "defaultInfoCard.designedByChessLoversDescription": "Созданная преданными шахматными энтузиастами, наша платформа - ваш игровой мир. Обязанные качеству, мы гарантируем, что вы будете готовы к успеху, становясь частью живого мирового шахматного сообщества. Раскройте свой потенциал; присоединяйтесь к нашей шахматной революции уже сегодня.",
+
+  "practice-mode": "Режим тренировки",
+  "record-your-own-moves": "Запишите свои собственные ходы!",
+  "record": "Записать",
+
+  "checkmate": "Шах и мат",
+  "game-over": "Игра окончена",
+  "stalemate": "Пат",
+  "draw": "Ничья",
+  "check": "Шах",
+  "check-text": "О нет, кто-то под шахом!",
+  "time-out": "Время вышло",
+  "opening-name": "Название дебюта",
+  "enter-opening-name": "Введите название дебюта",
+  "opening-description": "Описание дебюта",
+  "enter-opening-description": "Введите описание дебюта",
+  "input-required": "Вы должны что-то ввести!",
+  "recording-data": "Запись данных",
+  "save-opening": "Сохранить дебют",
+
+  "select-opening": "Выберите дебют",
+  "search": "Поиск",
+
+  "timeLeft": "Осталось времени",
+  "turnTime": "Время на ход",
+  "openingsCompleted": "Дебютов завершено",
+  "overallProgress": "Общий прогресс",
+  "lastMove": "Последний ход",
+
+  "openingDeleted": "Дебют удален",
+  "openingDeletedMessage": "Дебют был удален",
+  "myOpenings": "Мои дебюты",
+  "selectOpening": "Выберите дебют",
+
+  "noSelectedOpening": "Нет выбранного дебюта",
+  "moveCompleted": "Завершено: {{count}} ходов",
+  "moveNotCompleted": "Не завершено",
+  "finished": "Завершено",
+  "openingCompleted": "Завершено: {{count}} раз",
+  "openingNotCompleted": "Не завершено",
+
+  "addFEN": "+ Добавить FEN",
+  "addPNG": "+ Добавить PNG",
+  "share": "Поделиться",
+
+  "selectOpeningMove": "Выберите ход дебюта справа",
+
+  "welcomeMessage": "Добро пожаловать в Кузницу гроссмейстера!",
+  "fillProfileInfo": "Пожалуйста, заполните информацию о своем профиле.",
+  "requiredFields": "Обязательные поля отмечены *",
+  "firstNameLabel": "Имя",
+  "firstNamePlaceholder": "Имя",
+  "lastNameLabel": "Фамилия",
+  "lastNamePlaceholder": "Фамилия",
+  "bioLabel": "Биография",
+  "bioPlaceholder": "Биография",
+  "emailLabel": "E-mail",
+  "emailPlaceholder": "E-mail",
+  "profilePictureLabel": "Фото профиля",
+  "profilePicturePlaceholder": "Фото профиля",
+  "bannerPictureLabel": "Баннер профиля",
+  "bannerPicturePlaceholder": "Баннер профиля",
+  "saveButton": "Сохранить",
+
+  "chessboardPage": {
+    "practiceOpeningMoves": "Отработать дебютные ходы"
+  },
+
+  "footerSection": {
+    "aboutOurSite": "О нашем сайте",
+    "aboutOurSiteDescription": "Кузница гроссмейстера - это веб-сайт для шахматистов, созданный группой 2 в APP-2000 в Университете Южной Норвегии. Узнайте больше о нас.",
+    "followUs": "Следите за нами:",
+    "footerText": "© {{year}} Кузница гроссмейстера, Группа 2 APP-2000 УН",
+    "quickLinks": "Быстрые ссылки:",
+    "home": "Главная",
+    "aboutUs": "О нас",
+    "ourServices": "Наши услуги",
+    "contact": "Контакты"
+  },
+
+  "home": "Главная",
+  "socialNetwork": "Социальные сети",
+  "aboutUs": "О нас",
+  "contactUs": "Свяжитесь с нами",
+  "games": "Игры",
+  "language": "Язык",
+  "langEN": "Английский",
+  "langNO": "Норвежский",
+  "langRU": "русский",
+  "gameLobby": "Игровая комната",
+  "myGames": "Мои игры",
+  "practiceMoves": "Практика ходов",
+  "liveGames": "Живые игры",
+  "vsComputerGames": "Против компьютера",
+  "tournaments": "Турниры",
+  "searchForUsers": "Поиск пользователей",
+  "login": "Войти",
+  "signedInAs": "Вошли как:",
+  "mySettings": "Мои настройки",
+  "teamSettings": "Настройки команды",
+  "analytics": "Аналитика",
+  "system": "Система",
+  "configurations": "Конфигурации",
+  "helpAndFeedback": "Помощь и обратная связь",
+  "logout": "Выйти",
+  "joinGameLobby": "Присоединяйтесь к игровой комнате и играйте с друзьями.",
+  "seeAllPlayedGames": "Посмотреть все сыгранные вами игры.",
+  "spectateOtherPlayers": "Наблюдайте за другими игроками и учитесь у них.",
+  "joinOrSpectateTournaments": "Присоединяйтесь или наблюдайте за турнирами.",
+  "profileActions": "Действия профиля",
+
+  "chooseGameMode": "Выберите режим игры",
+  "selectedMode": "Вы выбрали {{mode}} шахматы",
+  "noModeSelected": "Режим не выбран - пожалуйста, нажмите на режим",
+  "continue": "Продолжить",
+  "time": "Время",
+
+  "chooseStartingSide": "Выберите стартовую сторону",
+  "white": "Белые",
+  "black": "Черные",
+  "playingAs": "Играете как",
+
+  "gameBeginsIn": "Игра начнется через",
+  "startTheGame": "Начать игру",
+  "hitStartWhenReady": "Нажмите «Старт», когда будете готовы",
+  "type": "Тип",
+  "rules": "Правила",
+  "minutes": "минут",
+  "secondsIncrement": "секунды до увеличения",
+
+  "victoryMessage": "Победа! Вы завершили дебют.",
+  "victoryText": "Вы победили.",
+
+  "loading": "Загрузка...",
+  "infiniteCombinations": "Бесконечные комбинации шахматных партий",
+  "hugeCollection": "Огромный выбор шахмат",
+  "hugeCollectionDescription": "У нас огромный выбор шахматных дебютов, завершений и учебных материалов.",
+
+  "userProfile": {
+    "title": "Профиль пользователя",
+    "username": "Имя пользователя:",
+    "elo": "Elo:"
+  },
+
+  "topList": {
+    "title": "Топ 5 пользователей по рейтингу Elo"
+  },
+
+  "top100List": {
+    "title": "Топ 100 пользователей по рейтингу Elo"
+  },
+
+  "signIn": {
+    "signInTitle": "Войти в Кузницу гроссмейстера",
+    "signInWith": "Войти с помощью:",
+    "emailLabel": "E-mail",
+    "passwordLabel": "Пароль",
+    "rememberMe": "Запомнить меня",
+    "errorMessage": "Неверный e-mail или пароль",
+    "successMessage": "Вход выполнен успешно",
+    "signInButton": "Войти",
+    "noAccount": "Нет учетной записи? ",
+    "signUpLink": "Зарегистрируйтесь"
+  },
+
+  "selectFen": "Выберите FEN",
+  "clearFen": "Очистить FEN",
+
+  "saveFenString": "Сохраните строку FEN ниже",
+  "editFenString": "Щелкните кнопку редактирования, чтобы изменить строку FEN",
+  "save": "Сохранить",
+  "editFen": "Редактировать FEN",
+  "cancel": "Отмена",
+  "delete": "Удалить",
+  "addFenString": "Добавить строку FEN",
+  "pasteFen": "Вставить FEN",
+  "addFen": "Добавить FEN",
+  "enterTitleDescription": "Введите заголовок для открытия",
+  "titlePlaceholder": "Заголовок",
+  "titleErrorMessage": "Введите допустимый заголовок: буквенно-цифровые символы и пробелы, длиной 1-30",
+  "enterFenDescription": "Обновите строку FEN для открытия",
+  "fenPlaceholder": "Строка FEN",
+  "fenErrorMessage": "Введите допустимую строку FEN",
+
+  "bioTabContent": "Это содержание вкладки Bio."
+}

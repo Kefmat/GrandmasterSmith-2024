@@ -1,0 +1,216 @@
+
+{
+  "banner.title": "Grandmaster's smith",
+  "banner.subtitle": "Free community for chess openings and tutorials.",
+  "banner.button": "Start playing",
+  "banner.spectateTitle": "Spectate live games",
+  "banner.spectateSubtitle": "Become the next Grand master, by spectating live games, here at Grandmaster's smith.",
+  "banner.registerButton": "Register",
+
+  "counters.openingsTitle": "Chess openings",
+  "counters.openingsDescription": "From Spanish, to Portuguese.",
+  "counters.endingsTitle": "Chess endings",
+  "counters.endingsDescription": "Learn from the chessplay of professionals to checkmate your opponent.",
+  "counters.tutorialsTitle": "Tutorials",
+  "counters.tutorialsDescription": "Learn from the best, fight the rest!",
+
+  "rotatingCard.front.title": "Master the game, unleash your potential",
+  "rotatingCard.front.description": "Your Ultimate Chess Playground\n\nWelcome to the world's premier chess community. Engage with the game like never before on our revolutionary platform. Here's what sets us apart:",
+  "rotatingCard.back.title": "Unleash Your Chess Mastery",
+  "rotatingCard.back.description": "Enhance your chess skills with access to an extensive library of openings, strategies, and tactics.\nConnect with chess enthusiasts, learn from grandmasters, and take your game to the next level.",
+  "defaultInfoCard.connectedThroughPlay": "Connected Through Play:",
+  "defaultInfoCard.connectedThroughPlayDescription": "Experience the thrill of player vs. player chess on a grand scale.\nChallenge friends or make new ones. Forge epic rivalries or mentor newcomers. The choice is yours.",
+  "defaultInfoCard.battleTestedAIOpponents": "Battle-Tested AI Opponents:",
+  "defaultInfoCard.battleTestedAIOpponentsDescription": "Hone your skills against the world's most formidable chess AI.\nTrain against adaptive opponents that adjust to your level, offering the ultimate practice experience.",
+  "defaultInfoCard.dynamicRatingSystem": "A Dynamic Rating System:",
+  "defaultInfoCard.dynamicRatingSystemDescription": "Compete, earn, and rise through the ranks with our robust chess rating system.\nStand out as a grandmaster or rise from a novice to a seasoned player, your rating tells your chess story.",
+  "defaultInfoCard.designedByChessLovers": "Designed for Chess Lovers, By Chess Lovers",
+  "defaultInfoCard.designedByChessLoversDescription": "Built by avid chess enthusiasts, our platform is your playground. With a commitment to excellence, we ensure you're equipped to succeed, all while being part of a vibrant global chess community. Unleash your potential; become a part of our chess revolution today.",
+
+  "practice-mode": "Practice Mode",
+  "record-your-own-moves": "Record your own moves!",
+  "record": "Record",
+
+  "checkmate": "Checkmate",
+  "game-over": "Game Over",
+  "stalemate": "Stalemate",
+  "draw": "Draw",
+  "check": "Check",
+  "check-text": "Oh oh, someone is in check!",
+  "time-out": "Time out",
+  "opening-name": "Opening name",
+  "enter-opening-name": "Enter opening name",
+  "opening-description": "Opening description",
+  "enter-opening-description": "Enter opening description",
+  "input-required": "You need to write something!",
+  "recording-data": "Recording data",
+  "save-opening": "Save opening",
+
+  "select-opening": "Select opening",
+  "search": "Search",
+
+  "timeLeft": "Time left",
+  "turnTime": "Turn time",
+  "openingsCompleted": "Openings completed",
+  "overallProgress": "Overall progress",
+  "lastMove": "Last move",
+
+  "openingDeleted": "Opening deleted",
+  "openingDeletedMessage": "The opening has been deleted successfully",
+  "myOpenings": "My openings",
+  "selectOpening": "Select opening",
+
+  "noSelectedOpening": "No selected opening",
+  "moveCompleted": "Completed: {{count}} {{count}} times",
+  "moveNotCompleted": "Not completed",
+  "finished": "Finished",
+  "openingCompleted": "Completed: {{count}} times",
+  "openingNotCompleted": "Not completed",
+
+  "addFEN": "+ Add FEN",
+  "addPNG": "+ Add PNG",
+  "share": "Share",
+
+  "selectOpeningMove": "Select an Opening move to the right",
+
+  "welcomeMessage": "Welcome to Grandmaster's smith!",
+  "fillProfileInfo": "Please fill in your profile information.",
+  "requiredFields": "Required fields are marked with *",
+  "firstNameLabel": "First name",
+  "firstNamePlaceholder": "First name",
+  "lastNameLabel": "Last name",
+  "lastNamePlaceholder": "Last name",
+  "bioLabel": "Bio",
+  "bioPlaceholder": "Bio",
+  "emailLabel": "Email",
+  "emailPlaceholder": "Email",
+  "profilePictureLabel": "Profile picture",
+  "profilePicturePlaceholder": "Profile picture",
+  "bannerPictureLabel": "Profile banner",
+  "bannerPicturePlaceholder": "Profile banner",
+  "saveButton": "Save",
+
+  "chessboardPage": {
+    "practiceOpeningMoves": "Practice your opening moves"
+  },
+
+  "footerSection": {
+    "aboutOurSite": "About Our Site",
+    "aboutOurSiteDescription": "Grandmaster's Forge is a website for chess enthusiasts, created by Group 2 in APP-2000 at USN. Learn more about us.",
+    "followUs": "Follow Us:",
+    "footerText": "© {{year}} Grandmaster's Smith, Gruppe 2 APP-2000 USN",
+    "quickLinks": "Quick Links:",
+    "home": "Home",
+    "aboutUs": "About Us",
+    "ourServices": "Our Services",
+    "contact": "Contact"
+  },
+
+  "home": "Home",
+  "socialNetwork": "Social Network",
+  "aboutUs": "About Us",
+  "contactUs": "Contact Us",
+  "games": "Games",
+  "language": "Language",
+  "langEN": "English",
+  "langNO": "Norwegian",
+  "langRU": "Russian",
+  "gameLobby": "Game Lobby",
+  "myGames": "My Games",
+  "practiceMoves": "Practice Moves",
+  "liveGames": "Live Games",
+  "vsComputerGames": "Vs Computer Games",
+  "tournaments": "Tournaments",
+  "searchForUsers": "Search for Users",
+  "login": "Login",
+  "signedInAs": "Signed in as:",
+  "mySettings": "My Settings",
+  "teamSettings": "Team Settings",
+  "analytics": "Analytics",
+  "system": "System",
+  "configurations": "Configurations",
+  "helpAndFeedback": "Help & Feedback",
+  "logout": "Logout",
+  "joinGameLobby": "Join the game lobby and play with your friends.",
+  "seeAllPlayedGames": "See all your played games.",
+  "spectateOtherPlayers": "Spectate other players and learn from them.",
+  "joinOrSpectateTournaments": "Join or spectate tournaments.",
+  "profileActions": "Profile Actions",
+
+  "chooseGameMode": "Choose game mode",
+  "selectedMode": "You have selected {{mode}} Chess",
+  "noModeSelected": "No mode selected - please click on a mode",
+  "continue": "Continue",
+  "time": "Time",
+
+  "chooseStartingSide": "Choose starting side",
+  "white": "White",
+  "black": "Black",
+  "playingAs": "Playing as",
+
+  "gameBeginsIn": "Game begins in",
+  "startTheGame": "Start the game",
+  "hitStartWhenReady": "Hit start when you are ready",
+  "type": "Type",
+  "rules": "Rules",
+  "minutes": "minutes",
+  "secondsIncrement": "seconds increment",
+
+  "victoryMessage": "Victory, you have completed the opening",
+  "victoryText": "You are victorious",
+
+  "loading": "Loading...",
+  "infiniteCombinations": "Infinite combinations of chess games",
+  "hugeCollection": "Huge collection of chess",
+  "hugeCollectionDescription": "We have a huge collection of chess openings, chess endings, and chess tutorials.",
+
+  "userProfile": {
+    "title": "User Profile",
+    "username": "Username:",
+    "elo": "Elo:"
+  },
+
+  "topList": {
+    "title": "Top 5 Elo Users"
+  },
+
+  "top100List": {
+    "title": "Top 100 Elo Users"
+  },
+
+  "signIn": {
+    "signInTitle": "Sign in to Grandmaster's smith",
+    "signInWith": "Sign in with:",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "rememberMe": "Remember me",
+    "errorMessage": "Invalid email or password",
+    "successMessage": "Successfully logged in",
+    "signInButton": "Sign in",
+    "noAccount": "Don't have an account? ",
+    "signUpLink": "Sign up"
+  },
+
+  "selectFen": "Select a FEN",
+  "clearFen": "Clear FEN",
+
+  "saveFenString": "Save the fen string below",
+  "editFenString": "Click the edit button to edit the fen string",
+  "save": "Save",
+  "editFen": "Edit FEN",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "addFenString": "Add a fen string",
+  "pasteFen": "Paste FEN",
+  "addFen": "Add FEN",
+  "enterTitleDescription": "Please enter a title for the opening moves",
+  "titlePlaceholder": "Title",
+  "titleErrorMessage": "Please enter a valid title: Alphanumeric characters and spaces, length 1-30",
+  "enterFenDescription": "Please update a fen for the opening moves",
+  "fenPlaceholder": "Fen string",
+  "fenErrorMessage": "Please enter a valid fen",
+
+  "bioTabContent": "This is the Bio tab content."
+
+
+}

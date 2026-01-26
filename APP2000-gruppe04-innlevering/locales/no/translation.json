@@ -1,0 +1,215 @@
+
+{
+  "banner.title": "Stormesterens smie",
+  "banner.subtitle": "Gratis fellesskap for sjakkåpninger og opplæringsprogrammer.",
+  "banner.button": "Start å spille",
+  "banner.spectateTitle": "Se livepartier",
+  "banner.spectateSubtitle": "Bli den neste stormesteren ved å se livepartier her på Stormesterens smie.",
+  "banner.registerButton": "Registrer deg",
+
+  "counters.openingsTitle": "Sjakkåpninger",
+  "counters.openingsDescription": "Fra spansk, til portugisisk.",
+  "counters.endingsTitle": "Sjakkavslutninger",
+  "counters.endingsDescription": "Lær fra profesjonelle sjakkspillere for å sjekkmate motstanderen din.",
+  "counters.tutorialsTitle": "Opplæringsprogrammer",
+  "counters.tutorialsDescription": "Lær fra de beste, kjemp mot resten!",
+
+  "rotatingCard.front.title": "Mestrer spillet, frigjør ditt potensial",
+  "rotatingCard.front.description": "Ditt Ultimate Chess Playground\n\nVelkommen til verdens ledende sjakkcommunity. Delta i spillet som aldri før på vår revolusjonerende plattform. Her er hva som skiller oss fra andre:",
+  "rotatingCard.back.title": "Frigjør din sjakk-kompetanse",
+  "rotatingCard.back.description": "Forbedre sjakkferdighetene dine med tilgang til et omfattende bibliotek med åpninger, strategier og taktikker.\nKoble deg til sjakkentusiaster, lær av stormestere, og ta spillet ditt til neste nivå.",
+  "defaultInfoCard.connectedThroughPlay": "Koblet gjennom spill:",
+  "defaultInfoCard.connectedThroughPlayDescription": "Opplev gleden av spiller mot spiller-sjakk på et stort nivå.\nUtfordre venner eller skaff deg nye. Skap episke rivaliseringer eller mentor nybegynnere. Valget er ditt.",
+  "defaultInfoCard.battleTestedAIOpponents": "Testet av AI-motstandere:",
+  "defaultInfoCard.battleTestedAIOpponentsDescription": "Puss ferdighetene dine mot verdens mest formidable sjakk-AI.\nTren mot tilpassbare motstandere som tilpasser seg ditt nivå, og tilbyr den ultimate treningsopplevelsen.",
+  "defaultInfoCard.dynamicRatingSystem": "Et dynamisk ratingssystem:",
+  "defaultInfoCard.dynamicRatingSystemDescription": "Konkurrer, tjen og stig gjennom rekkene med vårt robuste sjakk-ratingssystem.\nSkill deg ut som en stormester eller stig fra en nybegynner til en erfaren spiller, din rating forteller din sjakkhistorie.",
+  "defaultInfoCard.designedByChessLovers": "Designet for sjakkelskere, av sjakkelskere",
+  "defaultInfoCard.designedByChessLoversDescription": "Bygget av ivrige sjakkentusiaster, er plattformen vår din lekeplass. Med et forpliktelse til eksellense, sørger vi for at du er rustet til å lykkes, alt mens du er en del av et levende globalt sjakkfellesskap. Frigjør ditt potensial; bli en del av vår sjakkrevolusjon i dag.",
+
+  "practice-mode": "Treningmodus",
+  "record-your-own-moves": "Registrer dine egne trekk!",
+  "record": "Registrer",
+
+  "checkmate": "Sjakkmatt",
+  "game-over": "Spillet er over",
+  "stalemate": "Stalemate",
+  "draw": "Uavgjort",
+  "check": "Sjakk",
+  "check-text": "Åh åh, noen er i sjakk!",
+  "time-out": "Tid ute",
+  "opening-name": "Åpningens navn",
+  "enter-opening-name": "Skriv inn åpningens navn",
+  "opening-description": "Åpningens beskrivelse",
+  "enter-opening-description": "Skriv inn åpningens beskrivelse",
+  "input-required": "Du må skrive noe!",
+  "recording-data": "Opptak av data",
+  "save-opening": "Lagre åpning",
+
+  "select-opening": "Velg åpning",
+  "search": "Søk",
+
+  "timeLeft": "Tid igjen",
+  "turnTime": "Trekktid",
+  "openingsCompleted": "Åpninger fullført",
+  "overallProgress": "Total fremgang",
+  "lastMove": "Siste trekk",
+
+  "openingDeleted": "Åpning slettet",
+  "openingDeletedMessage": "Åpningen er slettet",
+  "myOpenings": "Mine åpninger",
+  "selectOpening": "Velg åpning",
+
+  "noSelectedOpening": "Ingen valgt åpning",
+  "moveCompleted": "Fullført: {{count}} {{count}} ganger",
+  "moveNotCompleted": "Ikke fullført",
+  "finished": "Fullført",
+  "openingCompleted": "Fullført: {{count}} ganger",
+  "openingNotCompleted": "Ikke fullført",
+
+  "addFEN": "+ Legg til FEN",
+  "addPNG": "+ Legg til PNG",
+  "share": "Del",
+
+  "selectOpeningMove": "Velg et åpningstrekk mot høyre",
+
+  "welcomeMessage": "Velkommen til Grandmaster's smed!",
+  "fillProfileInfo": "Vennligst fyll inn din profilinformasjon.",
+  "requiredFields": "Obligatoriske felt er merket med *",
+  "firstNameLabel": "Fornavn",
+  "firstNamePlaceholder": "Fornavn",
+  "lastNameLabel": "Etternavn",
+  "lastNamePlaceholder": "Etternavn",
+  "bioLabel": "Biografi",
+  "bioPlaceholder": "Biografi",
+  "emailLabel": "E-post",
+  "emailPlaceholder": "E-post",
+  "profilePictureLabel": "Profilbilde",
+  "profilePicturePlaceholder": "Profilbilde",
+  "bannerPictureLabel": "Profilbanner",
+  "bannerPicturePlaceholder": "Profilbanner",
+  "saveButton": "Lagre",
+
+  "chessboardPage": {
+    "practiceOpeningMoves": "Øv på åpningstrekkene dine"
+  },
+
+  "footerSection": {
+    "aboutOurSite": "Om nettstedet vårt",
+    "aboutOurSiteDescription": "Stormesterens smie er en nettside for sjakkinteresserte, som ble laget av gruppe 2 i APP-2000 ved USN. Les mer om oss.",
+    "followUs": "Følg oss:",
+    "footerText": "© {{year}} Grandmaster's Smith, Gruppe 2 APP-2000 USN",
+    "quickLinks": "Hurtiglenker:",
+    "home": "Hjem",
+    "aboutUs": "Om oss",
+    "ourServices": "Våre tjenester",
+    "contact": "Kontakt"
+  },
+
+  "home": "Hjem",
+  "socialNetwork": "Sosialt nettverk",
+  "aboutUs": "Om oss",
+  "contactUs": "Kontakt oss",
+  "games": "Spill",
+  "language": "Språk",
+  "langEN": "Engelsk",
+  "langNO": "Norsk",
+  "langRU": "Russisk",
+  "gameLobby": "Spillrom",
+  "myGames": "Mine spill",
+  "practiceMoves": "Øv på trekk",
+  "liveGames": "Direktesendte spill",
+  "vsComputerGames": "Mot datamaskinen",
+  "tournaments": "Turneringer",
+  "searchForUsers": "Søk etter brukere",
+  "login": "Logg inn",
+  "signedInAs": "Logget inn som:",
+  "mySettings": "Mine innstillinger",
+  "teamSettings": "Laginnstillinger",
+  "analytics": "Analyse",
+  "system": "System",
+  "configurations": "Konfigurasjoner",
+  "helpAndFeedback": "Hjelp og tilbakemelding",
+  "logout": "Logg ut",
+  "joinGameLobby": "Bli med i spillrommet og spill med vennene dine.",
+  "seeAllPlayedGames": "Se alle dine spilte spill.",
+  "spectateOtherPlayers": "Se andre spillere og lær av dem.",
+  "joinOrSpectateTournaments": "Bli med eller se på turneringer.",
+  "profileActions": "Profilhandlinger",
+
+  "chooseGameMode": "Velg spillmodus",
+  "selectedMode": "Du har valgt {{mode}} sjakk",
+  "noModeSelected": "Ingen modus valgt - vennligst klikk på en modus",
+  "continue": "Fortsett",
+  "time": "Tid",
+
+  "chooseStartingSide": "Velg startside",
+  "white": "Hvit",
+  "black": "Svart",
+  "playingAs": "Spiller som",
+
+  "gameBeginsIn": "Spillet begynner om",
+  "startTheGame": "Start spillet",
+  "hitStartWhenReady": "Trykk på start når du er klar",
+  "type": "Type",
+  "rules": "Regler",
+  "minutes": "minutter",
+  "secondsIncrement": "sekunder tillegg",
+
+  "victoryMessage": "Seier! Du har fullført åpningen.",
+  "victoryText": "Du har seiret.",
+
+  "loading": "Laster...",
+  "infiniteCombinations": "Uendelige kombinasjoner av sjakkspill",
+  "hugeCollection": "Stort utvalg av sjakk",
+  "hugeCollectionDescription": "Vi har et stort utvalg av sjakkåpninger, sjakkavslutninger og sjakktutorials.",
+
+  "userProfile": {
+    "title": "Brukerprofil",
+    "username": "Brukernavn:",
+    "elo": "Elo:"
+  },
+
+  "topList": {
+    "title": "Topp 5 Elo-brukere"
+  },
+
+  "top100List": {
+    "title": "Top 100 Elo-brukere"
+  },
+
+  "signIn": {
+    "signInTitle": "Logg inn på Grandmaster's smith",
+    "signInWith": "Logg inn med:",
+    "emailLabel": "E-post",
+    "passwordLabel": "Passord",
+    "rememberMe": "Husk meg",
+    "errorMessage": "Ugyldig e-post eller passord",
+    "successMessage": "Innlogging vellykket",
+    "signInButton": "Logg inn",
+    "noAccount": "Har du ikke en konto? ",
+    "signUpLink": "Registrer deg"
+  },
+
+  "selectFen": "Velg en FEN",
+  "clearFen": "Nullstill FEN",
+
+  "saveFenString": "Lagre fen-strengen nedenfor",
+  "editFenString": "Klikk på rediger-knappen for å redigere fen-strengen",
+  "save": "Lagre",
+  "editFen": "Rediger FEN",
+  "cancel": "Avbryt",
+  "delete": "Slett",
+  "addFenString": "Legg til en fen-streng",
+  "pasteFen": "Lim inn FEN",
+  "addFen": "Legg til FEN",
+  "enterTitleDescription": "Vennligst skriv inn en tittel for åpningstrekkene",
+  "titlePlaceholder": "Tittel",
+  "titleErrorMessage": "Vennligst skriv inn en gyldig tittel: Alfanumeriske tegn og mellomrom, lengde 1-30",
+  "enterFenDescription": "Vennligst oppdater en fen for åpningstrekkene",
+  "fenPlaceholder": "Fen-streng",
+  "fenErrorMessage": "Vennligst skriv inn en gyldig fen",
+
+  "bioTabContent": "Dette er innholdet i Bio-fanen."
+
+}

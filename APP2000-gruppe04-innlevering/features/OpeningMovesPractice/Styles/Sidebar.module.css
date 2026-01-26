@@ -1,0 +1,12 @@
+/* Sidebar - practice */
+.glow-on-hover:hover {
+  /* Tailwind CSS  */
+  @apply bg-green-500 shadow-lg;
+  color: #fff;
+  cursor: pointer;
+  box-shadow: 0 0 8px #48bb78;
+}
+
+.transition-width {
+  transition: width 0.3s ease;
+}
