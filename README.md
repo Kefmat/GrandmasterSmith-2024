@@ -10,7 +10,7 @@ Vi har initiert et prosjekt for å skape et sosialt nettverk online for sjakkspi
 Fåreløbig har vi valgt å basere oss på visse rammeverk. Vi begynte med å bruke MERN-stack og herunder derfor react, node.js, express og mongoDB.
 Nå i senere versjoner har vi gått over til next.js med nextUI, MUI, chakra-ui og Tailwind css.
 
-## Flerspråklighet![Uploading e607cf13fd3a52d0541ecdd477c21b55.png…]()
+## Flerspråklighet
 
 
 Vi har nå lagt tilrette for en I18 som wrapper rundt appen og gir appen en ny samenheng basert på språk.
