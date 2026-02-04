@@ -1,8 +1,6 @@
 <img width="1887" height="799" alt="e607cf13fd3a52d0541ecdd477c21b55" src="https://github.com/user-attachments/assets/cb453118-5cb0-400a-9f01-5621647295b9" />
 
-# [Chess Network]("undefined")![Uploading e607cf13fd3a52d0541ecdd477c21b55.png…]()
-
-![Uploading e607cf13fd3a52d0541ecdd477c21b55.png…]()
+# [Chess Network]
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/badge/Issues-1-red)] [![GitHub issues closed](https://img.shields.io/badge/Issues_solved-0-green)]
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8bf90cff-c26f-4a5a-969d-a8046534b6ae/deploy-status)](https://app.netlify.com/sites/grandmasterssmith/deploys)
